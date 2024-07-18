@@ -200,27 +200,6 @@
         ]
     },
     {
-        "name": "font",
-        "list": [
-            "https://raw.githubusercontent.com/hoangnguyenson/ConfigArSketch/main/font/aoboshi_one_regular.ttf",
-            "https://raw.githubusercontent.com/hoangnguyenson/ConfigArSketch/main/font/honk.otf",
-            "https://raw.githubusercontent.com/hoangnguyenson/ConfigArSketch/main/font/jaro_60pt_regular.ttf",
-            "https://raw.githubusercontent.com/hoangnguyenson/ConfigArSketch/main/font/overpass_black_700.ttf",
-            "https://raw.githubusercontent.com/hoangnguyenson/ConfigArSketch/main/font/pro_display_black.otf",
-            "https://raw.githubusercontent.com/hoangnguyenson/ConfigArSketch/main/font/sequel_100_black_85.ttf",
-            "https://raw.githubusercontent.com/hoangnguyenson/ConfigArSketch/main/font/seymour_one_regular.ttf",
-            "https://raw.githubusercontent.com/hoangnguyenson/ConfigArSketch/main/font/sf_pro_bold_600.otf",
-            "https://raw.githubusercontent.com/hoangnguyenson/ConfigArSketch/main/font/sf_pro_display_regular_400.otf",
-            "https://raw.githubusercontent.com/hoangnguyenson/ConfigArSketch/main/font/sf_pro_medium_500.otf",
-            "https://raw.githubusercontent.com/hoangnguyenson/ConfigArSketch/main/font/shojumaru_regular.ttf",
-            "https://raw.githubusercontent.com/hoangnguyenson/ConfigArSketch/main/font/spatan_700_semi.ttf",
-            "https://raw.githubusercontent.com/hoangnguyenson/ConfigArSketch/main/font/stalinist_one_regular.ttf",
-            "https://raw.githubusercontent.com/hoangnguyenson/ConfigArSketch/main/font/svn_gilroy_medium.otf",
-            "https://raw.githubusercontent.com/hoangnguyenson/ConfigArSketch/main/font/svn_gilroy_xbold.otf",
-            "https://raw.githubusercontent.com/hoangnguyenson/ConfigArSketch/main/font/svn_zatiyan.otf"
-        ]
-    },
-    {
         "name": "Food",
         "list": [
             "https://raw.githubusercontent.com/hoangnguyenson/ConfigArSketch/main/Food/food_0.png",
